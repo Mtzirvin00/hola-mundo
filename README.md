@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# Hola Mundo
+Mi primer repositorio.
 
 Autor: Irvin Mtz 
 Fecha: 3 de Mayo.
